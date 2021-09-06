@@ -22,3 +22,7 @@ It's my first time in iOS and C# development so the result is pretty ugly, so do
 until user touches elsewhere (Hopefully it's not a bug in the game software)
 - The button in the corner would not work properly (can't make it clickable for some reasons)
 - Obviously unplayable in higher difficulty until streaming game's video output is possible
+
+## Environments
+- Xcode 12.5.1 for `main` branch
+- Rider 2021.2.1 `win-client` branch
