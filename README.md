@@ -1,6 +1,7 @@
 # Brokenmai-iOS
 
-A highly WIP project that brings your favourite washing machine experience on you iPad (Only the controls)
+A highly WIP project that brings your favourite washing machine experience on you iPad (Only the controls)  
+**Only tested and compatible with on iPad Pro 10.5 (2019) for now**
 
 ## What's the point of all this?
 Yeah, it's quite strange to bring only the sensors to iPad. But I find it a good chance to try out Swift and C# at the same time and learn some basic socket
